@@ -2,6 +2,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 npm install firebase
+npm install -g firebase-tools
 
 In the project directory, you can run:
 
