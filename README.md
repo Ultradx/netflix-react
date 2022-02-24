@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 npm install firebase
 npm install -g firebase-tools
+npm install react-router-dom@6
 
 In the project directory, you can run:
 
