@@ -1,5 +1,5 @@
 import { initializeApp } from "firebase/app";
-import { getFirestore, collection, getDocs, query, where } from 'firebase/firestore/lite';
+import { getFirestore, collection, getDocs, query, where } from 'firebase/firestore';
 import { getAuth, signInWithEmailAndPassword, createUserWithEmailAndPassword  } from "firebase/auth";
 
 const firebaseConfig = {
