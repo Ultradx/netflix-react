@@ -1,7 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
-## This Project Is Made With React-Firebase
+## This Project Is Made With React-Firebase-Redux
 npm install firebase
 npm install -g firebase-tools
 npm install react-router-dom@6
